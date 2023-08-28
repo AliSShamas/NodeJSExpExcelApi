@@ -7,7 +7,7 @@ This is a simple Node.js Express API that allows you to retrieve data from an Ex
 
 1. Clone this repository:
 
-   ```bash
+   ```bash (Using the Bash shell, a command-line interface for Unix-like systems../Or cmd command line interface )
    git clone https://github.com/zZSlinkerZz/NodeJSExpExcelApi.git
 Navigate to the project directory:
 bash
